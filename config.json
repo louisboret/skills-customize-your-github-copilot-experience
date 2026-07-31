@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "flask-web-app",
+      "title": "Flask Web App",
+      "description": "Build a server-rendered Python web app with Flask, templates, and form handling.",
+      "path": "assignments/flask-web-app",
+      "dueDate": "2026-08-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
